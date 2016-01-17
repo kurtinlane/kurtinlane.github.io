@@ -1,0 +1,2 @@
+# kurtinlane.github.io
+blog
