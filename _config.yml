@@ -1,0 +1,17 @@
+# Site settings
+title: Colton's Blog
+header-img: img/home-bg.jpg
+email: me@coltonshields.com
+description: "A blog about stuff I code, do/like"
+baseurl: ""
+url: "http://coltonshields.com"
+twitter_username: kurtinlane
+github_username:  kurtinlane
+facebook_username:  Coltonshields9
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
